@@ -1,0 +1,5 @@
+public class Main{
+ public class void main(){
+ System.out.print("hello worlf my first java code");
+ }
+}
